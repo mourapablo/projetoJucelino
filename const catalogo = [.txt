@@ -1,0 +1,87 @@
+const catalogo = [
+
+{
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+{
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+{
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ {
+ id: '1' ,
+ nome: 'Quebra cabeça Dinossauro' ,
+ preco: '19,00' ,
+ imagem: 'quebraCabecaRex.png' ,
+ } ,
+
+ ];

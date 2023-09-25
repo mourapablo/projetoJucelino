@@ -1,0 +1,158 @@
+
+
+.login {
+
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(80, 56, 240, 0.572);
+    background-size: cover;
+    transition: background-color 4s ease-in-out;
+    width: 50vw;
+    height: 40vw;
+    text-align: center;
+    margin: 0;
+    
+    padding: 1vw;
+    margin: 2vw auto 1vw;
+    box-shadow: 1vw 1vw 1vw 0.5vw black;
+    font-size: 1.5vw;
+}
+.login:hover{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.login img{
+    width: 10vw;
+    height: 10vw;
+}
+
+#nome {
+    width: 25vw;
+    height: 4vw;
+    font-size: 1vw;
+    margin-right: 0.9vw;
+
+
+
+}
+
+#senha {
+    width: 25vw;
+    height: 4vw;
+    font-size: 1vw;
+    margin-left: 2.5vw;
+}
+#olho{
+    width: 3vw;
+    background-color:transparent;
+    border: #db4a39;
+    color: white;
+}
+#olho:hover{
+    transform: scale(1.4);
+    transition: transform 0.4s ease-in-out;
+}
+#cadastro2{
+    
+    width: 85%;
+    margin-top: -2vw;
+    
+}
+#cadastro2 ul{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 65px;
+    list-style: none;
+    
+    
+}
+#cadastro2 ul li a{
+    color: white;
+}
+
+
+#botao-acessar{
+    display: flex;
+    align-items: center;
+}
+#botao{
+    align-items: center;
+    height: 2.5vw;
+    width: 25vw;
+    background-color: rgb(59, 89, 152);
+    color: white;
+    font-size: 1.3vw;
+    align-items: center;
+    
+}
+#botao:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
+}
+#botao .icon-before{
+    margin-left: 7.5vw;
+    margin-right: 12vw;
+}
+
+#botao-facebook {
+   
+display: flex;
+align-items: center;
+}
+#facebook{
+    align-items: center;
+    height: 2.5vw;
+    width: 25vw;
+    background-color: rgb(59, 89, 152);
+    color: white;
+    font-size: 1.3vw;
+   
+    align-items: center;
+}
+#facebook:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
+}
+#facebook .icon-before{
+    margin-left: 3.6vw;
+    margin-right: 6vw;
+}
+
+#botao-google{
+   display: flex;
+   align-items: center;
+
+}
+
+#google{
+    align-items: center;
+    height: 2.5vw;
+    width: 25vw;
+    background-color: #db4a39;
+    color: white;
+    font-size: 1.3vw;
+    
+    align-items: center;
+}
+#google:hover{
+    transform: scale(1.1);
+    transition: transform 0.4s ease-in-out;
+}
+#google .icon-before{
+    margin-left: 3.4vw;
+    margin-right: 7.3vw;
+}
+
+
+
+footer {
+
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    font-size: 2vw;
+    margin-top: 3vw;
+    padding: 2vw;
+    height: 1vw;
+}
